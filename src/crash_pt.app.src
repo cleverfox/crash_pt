@@ -1,0 +1,9 @@
+{application, crash_pt,
+  [
+    {description, "Crash catch Parse Transform"},
+    {vsn, "0.1"},
+    {registered, []},
+    {applications, [
+    ]},
+    {env, []}
+  ]}.
